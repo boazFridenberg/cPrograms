@@ -1,0 +1,12 @@
+﻿  QuestionFile2.c
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(96,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(97,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(99,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(100,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(112,6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(118,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(124,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(135,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(137,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\boazf\OneDrive\Desktop\c\C programs\QuestionFile2\QuestionFile2.c(138,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  QuestionFile2.vcxproj -> C:\Users\boazf\OneDrive\Desktop\c\C programs\x64\Debug\QuestionFile2.exe

@@ -1,0 +1,6 @@
+﻿  SandBox.c
+C:\Users\boazf\OneDrive\Desktop\c\C programs\SandBox\SandBox\SandBox.c(23,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\boazf\OneDrive\Desktop\c\C programs\SandBox\SandBox\SandBox.c(23,10):
+      consider using '%zd' in the format string
+  
+  SandBox.vcxproj -> C:\Users\boazf\OneDrive\Desktop\c\C programs\SandBox\x64\Debug\SandBox.exe
